@@ -277,6 +277,5 @@ This project demonstrates practical SQL skills required for Data Analyst / Busin
 SQL → Joins → Aggregation → Subqueries → CTE → CASE → NULL Handling → Views → Business Analysis
 
 
-Absolutely. Update the Author section in the README to:
 
 ## 👤 Author
